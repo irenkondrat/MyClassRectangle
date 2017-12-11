@@ -1,0 +1,5 @@
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\KRectangle\KRectangle\bin\Release\KRectangle.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\KRectangle\KRectangle\bin\Release\KRectangle.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\KRectangle\KRectangle\obj\Release\KRectangle.csprojResolveAssemblyReference.cache
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\KRectangle\KRectangle\obj\Release\KRectangle.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\KRectangle\KRectangle\obj\Release\KRectangle.pdb

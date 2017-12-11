@@ -1,0 +1,8 @@
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\bin\Release\TestMyClassRectangle.exe.config
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\bin\Release\TestMyClassRectangle.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\bin\Release\TestMyClassRectangle.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\bin\Release\KRectangle.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\bin\Release\KRectangle.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\obj\Release\TestMyClassRectangle.csprojResolveAssemblyReference.cache
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\obj\Release\TestMyClassRectangle.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassRectangle\TestMyClassRectangle\TestMyClassRectangle\obj\Release\TestMyClassRectangle.pdb
